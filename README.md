@@ -21,7 +21,7 @@ File Renamer Bot is a Switch bot designed to make your file organization tasks e
 
 ## Setup Instructions
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/hummingbird28/RenameBot`.
 
 2. **Install Dependencies**: Install the required Python packages using `pip install -r requirements.txt`.
 
